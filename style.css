@@ -28,13 +28,14 @@ nav ul li a {
 nav ul li a:hover {
   color: orange;
 }
+
 section {
   padding: 40px;
   
   max-width: 970px;
   margin: auto;
     background-color: greenyellow;
-    background-image:url(/091d4f1bebc76ea61eec0b9d8af26e5f.jpg);
+    background-image:url(https://raw.githubusercontent.com/Angielica15/Actsssssss/main/091d4f1bebc76ea61eec0b9d8af26e5f.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 0px;
@@ -64,7 +65,7 @@ footer {
   justify-content: space-between;
 }
 .about{
-      background-image:url(/IMG_20260110_120449.jpg)
+      background-image:url(https://raw.githubusercontent.com/Angielica15/Actsssssss/main/IMG_20260110_120449.jpg)
 }
 .about p {
   margin: 10px 0;
@@ -72,7 +73,7 @@ footer {
   color: black;
 }
 .contact{
-      background-image:url(/5bd489b659f645e4a85b2df067d998a362ee17b7883cf9e54e5b1984e1899a6e.jpg);
+      background-image:url(https://raw.githubusercontent.com/Angielica15/Actsssssss/main/5bd489b659f645e4a85b2df067d998a362ee17b7883cf9e54e5b1984e1899a6e.jpg);
 }
 .contact p {
   margin: 10px 0;
@@ -80,9 +81,11 @@ footer {
   color: black;
 } 
 
+
 .skills{
-      background-image:url(/stock-photo-skill-concept-key-and-a-note-on-a-white-background-548263774.jpg);
+      background-image:url( https://raw.githubusercontent.com/Angielica15/Actsssssss/main/stock-photo-skill-concept-key-and-a-note-on-a-white-background-548263774.jpg);
 }
+
 .skills p {
   margin: 10px 0;
   font-size: 20px;
